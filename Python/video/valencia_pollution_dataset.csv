@@ -1,0 +1,397 @@
+objectid,nombre,direccion,tipozona,parametros,mediciones,so2,no2,o3,co,pm10,pm25,tipoemision,fecha_carga,calidad_ambiental,fiwareid,geo_shape,geo_point_2d
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,10,71,0.7,8,3,Tráfico,2025-05-24T20:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,5,88,N/A,N/A,N/A,Fondo,2025-05-24T20:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,24,N/A,N/A,20,11,Tráfico,2025-05-24T20:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,15,N/A,N/A,20,11,Tráfico,2025-05-24T20:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,82,0.1,9,6,Tráfico,2025-05-24T20:20:04+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,82,N/A,17,13,Fondo,2025-05-24T20:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,3,N/A,N/A,23,9,Tráfico,2025-05-24T20:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,4,N/A,N/A,N/A,N/A,Fondo,2025-05-24T20:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,5,83,N/A,N/A,N/A,Tráfico,2025-05-24T20:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,6,76,0.3,7,5,Tráfico,2025-05-24T20:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,8,N/A,N/A,15,8,Tráfico,2025-05-24T20:20:09+00:00,Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,5,77,0.3,7,5,Tráfico,2025-05-24T23:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,9,N/A,N/A,15,8,Tráfico,2025-05-24T23:20:10+00:00,Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,18,N/A,N/A,20,11,Tráfico,2025-05-24T23:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,10,N/A,N/A,20,11,Tráfico,2025-05-24T23:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,4,73,0.7,8,3,Tráfico,2025-05-24T23:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,82,N/A,17,13,Fondo,2025-05-24T23:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,4,N/A,N/A,24,9,Tráfico,2025-05-24T23:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,82,0.1,9,6,Tráfico,2025-05-24T23:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,5,83,N/A,N/A,N/A,Tráfico,2025-05-24T23:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,5,88,N/A,N/A,N/A,Fondo,2025-05-24T23:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,4,N/A,N/A,N/A,N/A,Fondo,2025-05-24T23:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,4,78,0.3,7,5,Tráfico,2025-05-25T00:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,82,N/A,18,13,Fondo,2025-05-25T00:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,1,N/A,N/A,24,9,Tráfico,2025-05-25T00:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,3,N/A,N/A,N/A,N/A,Fondo,2025-05-25T00:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,82,0.1,9,6,Tráfico,2025-05-25T00:20:04+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,4,83,N/A,N/A,N/A,Tráfico,2025-05-25T00:20:04+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,4,75,0.7,8,3,Tráfico,2025-05-25T00:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,6,88,N/A,N/A,N/A,Fondo,2025-05-25T00:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,10,N/A,N/A,15,8,Tráfico,2025-05-25T00:20:10+00:00,Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,13,N/A,N/A,20,11,Tráfico,2025-05-25T00:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,9,N/A,N/A,20,11,Tráfico,2025-05-25T00:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,81,0.1,9,6,Tráfico,2025-05-25T01:20:04+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,83,N/A,18,14,Fondo,2025-05-25T01:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,7,87,N/A,N/A,N/A,Fondo,2025-05-25T01:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,0,N/A,N/A,24,10,Tráfico,2025-05-25T01:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,3,N/A,N/A,N/A,N/A,Fondo,2025-05-25T01:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,12,N/A,N/A,20,11,Tráfico,2025-05-25T01:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,4,83,N/A,N/A,N/A,Tráfico,2025-05-25T01:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,4,77,0.7,8,3,Tráfico,2025-05-25T01:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,7,N/A,N/A,15,8,Tráfico,2025-05-25T01:20:10+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,7,N/A,N/A,20,11,Tráfico,2025-05-25T01:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,4,78,0.3,7,5,Tráfico,2025-05-25T01:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,81,0.1,9,6,Tráfico,2025-05-25T02:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,83,N/A,18,14,Fondo,2025-05-25T02:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,1,N/A,N/A,25,10,Tráfico,2025-05-25T02:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,Fondo,2025-05-25T02:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,12,N/A,N/A,21,11,Tráfico,2025-05-25T02:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,5,N/A,N/A,20,11,Tráfico,2025-05-25T02:20:14+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,4,77,0.3,7,5,Tráfico,2025-05-25T02:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,4,79,0.7,8,3,Tráfico,2025-05-25T02:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,1,4,86,N/A,N/A,N/A,Fondo,2025-05-25T02:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,6,N/A,N/A,16,8,Tráfico,2025-05-25T02:20:11+00:00,Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,4,84,N/A,N/A,N/A,Tráfico,2025-05-25T02:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,7,N/A,N/A,16,8,Tráfico,2025-05-25T03:20:10+00:00,Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,3,N/A,N/A,N/A,N/A,Fondo,2025-05-25T03:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,6,N/A,N/A,20,11,Tráfico,2025-05-25T03:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,4,84,N/A,N/A,N/A,Tráfico,2025-05-25T03:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,5,85,N/A,N/A,N/A,Fondo,2025-05-25T03:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,11,N/A,N/A,21,11,Tráfico,2025-05-25T03:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,0,3,81,0.1,9,6,Tráfico,2025-05-25T03:20:04+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,4,76,0.3,7,6,Tráfico,2025-05-25T03:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,3,81,0.7,8,3,Tráfico,2025-05-25T03:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,81,N/A,18,13,Fondo,2025-05-25T03:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,0,N/A,N/A,25,10,Tráfico,2025-05-25T03:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,4,81,N/A,N/A,N/A,Tráfico,2025-05-25T05:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,76,N/A,17,13,Fondo,2025-05-25T05:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,7,80,N/A,N/A,N/A,Fondo,2025-05-25T05:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,7,N/A,N/A,15,8,Tráfico,2025-05-25T05:20:12+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,10,N/A,N/A,20,10,Tráfico,2025-05-25T05:20:15+00:00,Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,11,69,0.3,7,6,Tráfico,2025-05-25T05:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,2,N/A,N/A,25,9,Tráfico,2025-05-25T05:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,0,3,78,0.1,7,5,Tráfico,2025-05-25T05:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,3,82,0.7,7,2,Tráfico,2025-05-25T05:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,7,N/A,N/A,N/A,N/A,Fondo,2025-05-25T05:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,13,N/A,N/A,21,11,Tráfico,2025-05-25T05:20:14+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,6,77,N/A,N/A,N/A,Tráfico,2025-05-25T06:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,14,N/A,N/A,21,10,Tráfico,2025-05-25T06:20:15+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,0,3,76,0.1,7,5,Tráfico,2025-05-25T06:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,16,63,0.3,7,6,Tráfico,2025-05-25T06:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,4,80,0.7,7,2,Tráfico,2025-05-25T06:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,72,N/A,17,13,Fondo,2025-05-25T06:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,9,77,N/A,N/A,N/A,Fondo,2025-05-25T06:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,9,N/A,N/A,15,8,Tráfico,2025-05-25T06:20:13+00:00,Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,1,N/A,N/A,25,9,Tráfico,2025-05-25T06:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,5,N/A,N/A,N/A,N/A,Fondo,2025-05-25T06:20:14+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,13,N/A,N/A,20,10,Tráfico,2025-05-25T06:20:16+00:00,Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,9,75,0.7,7,2,Tráfico,2025-05-25T07:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,12,72,N/A,N/A,N/A,Fondo,2025-05-25T07:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,0,3,72,0.1,7,4,Tráfico,2025-05-25T07:20:04+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,67,N/A,17,12,Fondo,2025-05-25T07:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,11,N/A,N/A,15,8,Tráfico,2025-05-25T07:20:10+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,17,N/A,N/A,20,10,Tráfico,2025-05-25T07:20:12+00:00,Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,6,71,N/A,N/A,N/A,Tráfico,2025-05-25T07:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,15,57,0.3,7,6,Tráfico,2025-05-25T07:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,3,N/A,N/A,25,9,Tráfico,2025-05-25T07:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,8,N/A,N/A,N/A,N/A,Fondo,2025-05-25T07:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,22,N/A,N/A,20,10,Tráfico,2025-05-25T07:20:11+00:00,Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,64,N/A,17,12,Fondo,2025-05-25T08:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,16,66,N/A,N/A,N/A,Fondo,2025-05-25T08:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,19,64,N/A,N/A,N/A,Tráfico,2025-05-25T08:20:04+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,13,N/A,N/A,15,8,Tráfico,2025-05-25T08:20:09+00:00,Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,7,N/A,N/A,24,9,Tráfico,2025-05-25T08:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,12,N/A,N/A,N/A,N/A,Fondo,2025-05-25T08:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,0,3,68,0.1,7,4,Tráfico,2025-05-25T08:20:04+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,19,50,0.3,7,6,Tráfico,2025-05-25T08:20:05+00:00,Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,8,70,0.7,7,2,Tráfico,2025-05-25T08:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,24,N/A,N/A,20,10,Tráfico,2025-05-25T08:20:11+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,27,N/A,N/A,19,10,Tráfico,2025-05-25T08:20:11+00:00,Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,14,46,0.3,6,5,Tráfico,2025-05-25T09:20:05+00:00,Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,13,66,0.7,7,2,Tráfico,2025-05-25T09:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,61,N/A,17,12,Fondo,2025-05-25T09:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,10,N/A,N/A,24,9,Tráfico,2025-05-25T09:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,10,N/A,N/A,N/A,N/A,Fondo,2025-05-25T09:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,30,N/A,N/A,18,10,Tráfico,2025-05-25T09:20:13+00:00,Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,18,63,N/A,N/A,N/A,Fondo,2025-05-25T09:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,15,N/A,N/A,15,7,Tráfico,2025-05-25T09:20:09+00:00,Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,0,3,65,0.1,6,4,Tráfico,2025-05-25T09:20:04+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,11,57,N/A,N/A,N/A,Tráfico,2025-05-25T09:20:04+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,24,N/A,N/A,19,9,Tráfico,2025-05-25T09:20:12+00:00,Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,9,46,0.3,6,5,Tráfico,2025-05-25T10:20:06+00:00,Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,14,N/A,N/A,14,7,Tráfico,2025-05-25T10:20:09+00:00,Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,9,N/A,N/A,N/A,N/A,Fondo,2025-05-25T10:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,24,N/A,N/A,19,9,Tráfico,2025-05-25T10:20:11+00:00,Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,8,64,0.7,7,2,Tráfico,2025-05-25T10:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,59,N/A,17,12,Fondo,2025-05-25T10:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,1,13,61,N/A,N/A,N/A,Fondo,2025-05-25T10:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,13,N/A,N/A,24,9,Tráfico,2025-05-25T10:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,63,0.1,6,4,Tráfico,2025-05-25T10:20:04+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,4,55,N/A,N/A,N/A,Tráfico,2025-05-25T10:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,21,N/A,N/A,18,10,Tráfico,2025-05-25T10:20:12+00:00,Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,1,12,62,N/A,N/A,N/A,Fondo,2025-05-25T11:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,10,N/A,N/A,14,7,Tráfico,2025-05-25T11:20:11+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,14,N/A,N/A,18,10,Tráfico,2025-05-25T11:20:15+00:00,Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,62,0.1,7,4,Tráfico,2025-05-25T11:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,6,63,0.7,7,2,Tráfico,2025-05-25T11:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,24,N/A,N/A,24,9,Tráfico,2025-05-25T11:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,13,N/A,N/A,19,9,Tráfico,2025-05-25T11:20:14+00:00,Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,4,55,N/A,N/A,N/A,Tráfico,2025-05-25T11:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,5,47,0.3,6,5,Tráfico,2025-05-25T11:20:06+00:00,Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,60,N/A,17,12,Fondo,2025-05-25T11:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,14,N/A,N/A,N/A,N/A,Fondo,2025-05-25T11:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,4,61,N/A,17,13,Fondo,2025-05-25T12:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,10,N/A,N/A,18,10,Tráfico,2025-05-25T12:20:14+00:00,Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,4,57,N/A,N/A,N/A,Tráfico,2025-05-25T12:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,11,63,0.7,7,2,Tráfico,2025-05-25T12:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,1,9,64,N/A,N/A,N/A,Fondo,2025-05-25T12:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,10,N/A,N/A,14,8,Tráfico,2025-05-25T12:20:11+00:00,Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,15,N/A,N/A,24,9,Tráfico,2025-05-25T12:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,20,N/A,N/A,N/A,N/A,Fondo,2025-05-25T12:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,15,N/A,N/A,19,10,Tráfico,2025-05-25T12:20:13+00:00,Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,4,63,0.1,7,4,Tráfico,2025-05-25T12:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,6,49,0.3,6,5,Tráfico,2025-05-25T12:20:07+00:00,Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,9,63,0.1,7,5,Tráfico,2025-05-25T13:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,5,60,N/A,N/A,N/A,Tráfico,2025-05-25T13:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,6,62,N/A,18,13,Fondo,2025-05-25T13:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,15,N/A,N/A,24,9,Tráfico,2025-05-25T13:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,16,N/A,N/A,19,10,Tráfico,2025-05-25T13:20:14+00:00,Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,10,53,0.3,6,5,Tráfico,2025-05-25T13:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,23,N/A,N/A,N/A,N/A,Fondo,2025-05-25T13:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,14,64,0.7,7,2,Tráfico,2025-05-25T13:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,17,66,N/A,N/A,N/A,Fondo,2025-05-25T13:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,14,N/A,N/A,15,8,Tráfico,2025-05-25T13:20:11+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,9,N/A,N/A,19,10,Tráfico,2025-05-25T13:20:15+00:00,Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,5,22,58,0.3,7,5,Tráfico,2025-05-25T14:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,66,N/A,18,13,Fondo,2025-05-25T14:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,23,69,N/A,N/A,N/A,Fondo,2025-05-25T14:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,27,N/A,N/A,24,9,Tráfico,2025-05-25T14:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,4,65,0.1,7,5,Tráfico,2025-05-25T14:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,21,N/A,N/A,15,8,Tráfico,2025-05-25T14:20:10+00:00,Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,29,N/A,N/A,20,10,Tráfico,2025-05-25T14:20:12+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,18,N/A,N/A,19,10,Tráfico,2025-05-25T14:20:13+00:00,Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,6,67,N/A,N/A,N/A,Tráfico,2025-05-25T14:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,1,27,64,0.7,7,2,Tráfico,2025-05-25T14:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,8,N/A,N/A,N/A,N/A,Fondo,2025-05-25T14:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,6,72,N/A,N/A,N/A,Tráfico,2025-05-25T15:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,5,16,64,0.3,7,5,Tráfico,2025-05-25T15:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,25,N/A,N/A,20,10,Tráfico,2025-05-25T15:20:14+00:00,Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,2,3,69,0.1,7,5,Tráfico,2025-05-25T15:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,19,73,N/A,N/A,N/A,Fondo,2025-05-25T15:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,13,67,0.7,7,2,Tráfico,2025-05-25T15:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,71,N/A,18,13,Fondo,2025-05-25T15:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,14,N/A,N/A,15,8,Tráfico,2025-05-25T15:20:11+00:00,Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,15,N/A,N/A,24,9,Tráfico,2025-05-25T15:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,8,N/A,N/A,N/A,N/A,Fondo,2025-05-25T15:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,17,N/A,N/A,19,10,Tráfico,2025-05-25T15:20:14+00:00,Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,2,3,73,0.1,7,5,Tráfico,2025-05-25T16:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,5,14,69,0.3,7,6,Tráfico,2025-05-25T16:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,10,71,0.7,7,2,Tráfico,2025-05-25T16:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,75,N/A,18,13,Fondo,2025-05-25T16:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,3,N/A,N/A,N/A,N/A,Fondo,2025-05-25T16:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,16,N/A,N/A,20,10,Tráfico,2025-05-25T16:20:13+00:00,Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,6,79,N/A,N/A,N/A,Fondo,2025-05-25T16:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,13,N/A,N/A,15,8,Tráfico,2025-05-25T16:20:11+00:00,Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,9,79,N/A,N/A,N/A,Tráfico,2025-05-25T16:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,12,N/A,N/A,24,9,Tráfico,2025-05-25T16:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,9,N/A,N/A,19,10,Tráfico,2025-05-25T16:20:14+00:00,Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,0,N/A,N/A,24,9,Tráfico,2025-05-25T17:20:14+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,16,N/A,N/A,19,10,Tráfico,2025-05-25T17:20:15+00:00,Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,2,3,75,0.1,7,5,Tráfico,2025-05-25T17:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,4,86,N/A,N/A,N/A,Tráfico,2025-05-25T17:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,5,7,73,0.3,7,6,Tráfico,2025-05-25T17:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,8,74,0.7,7,2,Tráfico,2025-05-25T17:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,77,N/A,18,13,Fondo,2025-05-25T17:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,3,N/A,N/A,N/A,N/A,Fondo,2025-05-25T17:20:14+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,4,83,N/A,N/A,N/A,Fondo,2025-05-25T17:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,10,N/A,N/A,15,8,Tráfico,2025-05-25T17:20:13+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,10,N/A,N/A,19,10,Tráfico,2025-05-25T17:20:16+00:00,Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,4,75,0.3,7,6,Tráfico,2025-05-25T18:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,6,75,0.7,7,2,Tráfico,2025-05-25T18:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,4,86,N/A,N/A,N/A,Fondo,2025-05-25T18:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,2,3,77,0.1,7,5,Tráfico,2025-05-25T18:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,4,88,N/A,N/A,N/A,Tráfico,2025-05-25T18:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,11,N/A,N/A,15,8,Tráfico,2025-05-25T18:20:11+00:00,Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,0,N/A,N/A,24,9,Tráfico,2025-05-25T18:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,6,N/A,N/A,N/A,N/A,Fondo,2025-05-25T18:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,12,N/A,N/A,19,10,Tráfico,2025-05-25T18:20:13+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,7,N/A,N/A,19,10,Tráfico,2025-05-25T18:20:14+00:00,Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,80,N/A,18,13,Fondo,2025-05-25T18:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,4,89,N/A,N/A,N/A,Tráfico,2025-05-25T19:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,12,76,0.3,7,6,Tráfico,2025-05-25T19:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,6,76,0.7,7,2,Tráfico,2025-05-25T19:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,8,N/A,N/A,15,8,Tráfico,2025-05-25T19:20:11+00:00,Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,14,N/A,N/A,19,10,Tráfico,2025-05-25T19:20:13+00:00,Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,2,3,78,0.1,7,5,Tráfico,2025-05-25T19:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,82,N/A,18,13,Fondo,2025-05-25T19:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,4,88,N/A,N/A,N/A,Fondo,2025-05-25T19:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,1,N/A,N/A,24,9,Tráfico,2025-05-25T19:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,3,N/A,N/A,N/A,N/A,Fondo,2025-05-25T19:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,6,N/A,N/A,19,10,Tráfico,2025-05-25T19:20:14+00:00,Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,2,3,79,0.1,7,5,Tráfico,2025-05-25T20:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,84,N/A,18,13,Fondo,2025-05-25T20:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,4,88,N/A,N/A,N/A,Fondo,2025-05-25T20:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,4,89,N/A,N/A,N/A,Tráfico,2025-05-25T20:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,5,11,77,0.3,7,6,Tráfico,2025-05-25T20:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,5,77,0.7,7,2,Tráfico,2025-05-25T20:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,1,N/A,N/A,24,10,Tráfico,2025-05-25T20:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,8,N/A,N/A,15,8,Tráfico,2025-05-25T20:20:10+00:00,Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,4,N/A,N/A,N/A,N/A,Fondo,2025-05-25T20:20:11+00:00,Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,14,N/A,N/A,19,10,Tráfico,2025-05-25T20:20:12+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,8,N/A,N/A,19,10,Tráfico,2025-05-25T20:20:12+00:00,Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,7,78,0.7,7,2,Tráfico,2025-05-25T21:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,20,N/A,N/A,19,10,Tráfico,2025-05-25T21:20:13+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,9,N/A,N/A,19,10,Tráfico,2025-05-25T21:20:13+00:00,Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,2,3,81,0.1,7,5,Tráfico,2025-05-25T21:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,4,88,N/A,N/A,N/A,Tráfico,2025-05-25T21:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,15,76,0.3,7,6,Tráfico,2025-05-25T21:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,5,89,N/A,N/A,N/A,Fondo,2025-05-25T21:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,8,N/A,N/A,15,8,Tráfico,2025-05-25T21:20:11+00:00,Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,86,N/A,18,13,Fondo,2025-05-25T21:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,1,N/A,N/A,24,10,Tráfico,2025-05-25T21:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,5,N/A,N/A,N/A,N/A,Fondo,2025-05-25T21:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,4,87,N/A,N/A,N/A,Tráfico,2025-05-25T22:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,11,77,0.3,7,6,Tráfico,2025-05-25T22:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,7,90,N/A,N/A,N/A,Fondo,2025-05-25T22:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,20,N/A,N/A,19,10,Tráfico,2025-05-25T22:20:12+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,10,N/A,N/A,19,10,Tráfico,2025-05-25T22:20:12+00:00,Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,9,80,0.7,7,2,Tráfico,2025-05-25T22:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,10,N/A,N/A,15,8,Tráfico,2025-05-25T22:20:10+00:00,Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,6,N/A,N/A,24,10,Tráfico,2025-05-25T22:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,2,3,82,0.1,7,5,Tráfico,2025-05-25T22:20:04+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,85,N/A,18,13,Fondo,2025-05-25T22:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,7,N/A,N/A,N/A,N/A,Fondo,2025-05-25T22:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,81,0.1,7,5,Tráfico,2025-05-25T23:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,8,90,N/A,N/A,N/A,Fondo,2025-05-25T23:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,4,N/A,N/A,N/A,N/A,Fondo,2025-05-25T23:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,20,N/A,N/A,19,10,Tráfico,2025-05-25T23:20:12+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,13,N/A,N/A,19,10,Tráfico,2025-05-25T23:20:12+00:00,Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,7,81,0.7,7,3,Tráfico,2025-05-25T23:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,85,N/A,18,13,Fondo,2025-05-25T23:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,4,N/A,N/A,24,10,Tráfico,2025-05-25T23:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,4,87,N/A,N/A,N/A,Tráfico,2025-05-25T23:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,5,77,0.3,7,6,Tráfico,2025-05-25T23:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,10,N/A,N/A,15,8,Tráfico,2025-05-25T23:20:10+00:00,Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,5,77,0.3,7,6,Tráfico,2025-05-26T00:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,4,82,0.7,7,3,Tráfico,2025-05-26T00:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,8,N/A,N/A,15,8,Tráfico,2025-05-26T00:20:11+00:00,Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,2,N/A,N/A,24,9,Tráfico,2025-05-26T00:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,6,N/A,N/A,N/A,N/A,Fondo,2025-05-26T00:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,16,N/A,N/A,19,10,Tráfico,2025-05-26T00:20:13+00:00,Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,8,89,N/A,N/A,N/A,Fondo,2025-05-26T00:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,81,0.1,8,5,Tráfico,2025-05-26T00:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,4,88,N/A,N/A,N/A,Tráfico,2025-05-26T00:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,84,N/A,18,13,Fondo,2025-05-26T00:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,12,N/A,N/A,19,10,Tráfico,2025-05-26T00:20:14+00:00,Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,4,87,N/A,N/A,N/A,Tráfico,2025-05-26T01:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,5,76,0.3,7,6,Tráfico,2025-05-26T01:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,4,83,0.7,7,3,Tráfico,2025-05-26T01:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,81,N/A,18,13,Fondo,2025-05-26T01:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,6,N/A,N/A,24,9,Tráfico,2025-05-26T01:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,20,N/A,N/A,19,10,Tráfico,2025-05-26T01:20:13+00:00,Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,81,0.1,8,5,Tráfico,2025-05-26T01:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,9,N/A,N/A,15,8,Tráfico,2025-05-26T01:20:11+00:00,Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,8,N/A,N/A,N/A,N/A,Fondo,2025-05-26T01:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,12,N/A,N/A,19,10,Tráfico,2025-05-26T01:20:14+00:00,Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,8,88,N/A,N/A,N/A,Fondo,2025-05-26T01:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,2,3,79,0.1,8,5,Tráfico,2025-05-26T02:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,4,85,N/A,N/A,N/A,Tráfico,2025-05-26T02:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,7,85,N/A,N/A,N/A,Fondo,2025-05-26T02:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,10,N/A,N/A,15,8,Tráfico,2025-05-26T02:20:13+00:00,Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,20,N/A,N/A,19,10,Tráfico,2025-05-26T02:20:15+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,11,N/A,N/A,19,10,Tráfico,2025-05-26T02:20:15+00:00,Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,4,82,0.7,7,3,Tráfico,2025-05-26T02:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,78,N/A,18,13,Fondo,2025-05-26T02:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,5,N/A,N/A,N/A,N/A,Fondo,2025-05-26T02:20:14+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,6,74,0.3,7,6,Tráfico,2025-05-26T02:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,2,N/A,N/A,24,9,Tráfico,2025-05-26T02:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,4,9,70,0.3,7,6,Tráfico,2025-05-26T03:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,5,79,0.7,7,3,Tráfico,2025-05-26T03:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,74,N/A,18,13,Fondo,2025-05-26T03:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,8,81,N/A,N/A,N/A,Fondo,2025-05-26T03:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,3,N/A,N/A,24,9,Tráfico,2025-05-26T03:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,76,0.1,8,5,Tráfico,2025-05-26T03:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,4,81,N/A,N/A,N/A,Tráfico,2025-05-26T03:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,8,N/A,N/A,15,8,Tráfico,2025-05-26T03:20:11+00:00,Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,6,N/A,N/A,N/A,N/A,Fondo,2025-05-26T03:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,14,N/A,N/A,19,10,Tráfico,2025-05-26T03:20:13+00:00,Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,16,N/A,N/A,19,11,Tráfico,2025-05-26T03:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,69,N/A,18,13,Fondo,2025-05-26T04:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,11,N/A,N/A,15,8,Tráfico,2025-05-26T04:20:10+00:00,Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,4,N/A,N/A,24,10,Tráfico,2025-05-26T04:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,11,76,N/A,N/A,N/A,Fondo,2025-05-26T04:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,15,N/A,N/A,19,11,Tráfico,2025-05-26T04:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,73,0.1,8,5,Tráfico,2025-05-26T04:20:04+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,6,75,N/A,N/A,N/A,Tráfico,2025-05-26T04:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,3,11,65,0.3,7,6,Tráfico,2025-05-26T04:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,7,75,0.7,7,3,Tráfico,2025-05-26T04:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,8,N/A,N/A,N/A,N/A,Fondo,2025-05-26T04:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,39,N/A,N/A,19,11,Tráfico,2025-05-26T04:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,68,0.1,9,6,Tráfico,2025-05-26T05:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,13,68,N/A,N/A,N/A,Tráfico,2025-05-26T05:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,3,9,60,0.3,7,6,Tráfico,2025-05-26T05:20:06+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,11,69,0.7,7,3,Tráfico,2025-05-26T05:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,4,63,N/A,18,13,Fondo,2025-05-26T05:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,14,N/A,N/A,15,8,Tráfico,2025-05-26T05:20:10+00:00,Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,7,N/A,N/A,24,10,Tráfico,2025-05-26T05:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,21,N/A,N/A,20,11,Tráfico,2025-05-26T05:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,14,70,N/A,N/A,N/A,Fondo,2025-05-26T05:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,11,N/A,N/A,N/A,N/A,Fondo,2025-05-26T05:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,18,N/A,N/A,19,11,Tráfico,2025-05-26T05:20:14+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,12,N/A,N/A,15,8,Tráfico,2025-05-26T06:20:12+00:00,Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,10,N/A,N/A,N/A,N/A,Fondo,2025-05-26T06:20:14+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,29,N/A,N/A,20,11,Tráfico,2025-05-26T06:20:14+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,21,N/A,N/A,20,11,Tráfico,2025-05-26T06:20:15+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,62,0.1,9,6,Tráfico,2025-05-26T06:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,1,8,61,N/A,N/A,N/A,Tráfico,2025-05-26T06:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,10,63,0.7,7,3,Tráfico,2025-05-26T06:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,12,63,N/A,N/A,N/A,Fondo,2025-05-26T06:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,8,N/A,N/A,24,10,Tráfico,2025-05-26T06:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,3,11,54,0.3,7,6,Tráfico,2025-05-26T06:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,58,N/A,18,13,Fondo,2025-05-26T06:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,3,11,47,0.3,7,6,Tráfico,2025-05-26T07:20:06+00:00,Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,15,56,N/A,N/A,N/A,Fondo,2025-05-26T07:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,7,N/A,N/A,24,10,Tráfico,2025-05-26T07:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,28,N/A,N/A,20,11,Tráfico,2025-05-26T07:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,28,N/A,N/A,20,11,Tráfico,2025-05-26T07:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,10,52,N/A,N/A,N/A,Tráfico,2025-05-26T07:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,4,52,N/A,18,13,Fondo,2025-05-26T07:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,13,N/A,N/A,15,8,Tráfico,2025-05-26T07:20:10+00:00,Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,4,56,0.1,9,6,Tráfico,2025-05-26T07:20:05+00:00,Razonablemente Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,12,57,0.7,7,3,Tráfico,2025-05-26T07:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,10,N/A,N/A,N/A,N/A,Fondo,2025-05-26T07:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,23,N/A,N/A,20,11,Tráfico,2025-05-26T08:20:14+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,29,N/A,N/A,20,11,Tráfico,2025-05-26T08:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,12,N/A,N/A,24,10,Tráfico,2025-05-26T08:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,15,N/A,N/A,15,8,Tráfico,2025-05-26T08:20:11+00:00,Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,14,50,0.7,7,3,Tráfico,2025-05-26T08:20:07+00:00,Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,3,10,41,0.3,7,6,Tráfico,2025-05-26T08:20:06+00:00,Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,6,49,0.1,9,6,Tráfico,2025-05-26T08:20:05+00:00,Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,3,11,45,N/A,N/A,N/A,Tráfico,2025-05-26T08:20:06+00:00,Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,13,N/A,N/A,N/A,N/A,Fondo,2025-05-26T08:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,15,51,N/A,N/A,N/A,Fondo,2025-05-26T08:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,4,46,N/A,18,13,Fondo,2025-05-26T08:20:09+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,2,11,39,N/A,N/A,N/A,Tráfico,2025-05-26T09:20:05+00:00,Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,6,46,0.7,7,3,Tráfico,2025-05-26T09:20:06+00:00,Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,43,N/A,18,13,Fondo,2025-05-26T09:20:07+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,14,46,N/A,N/A,N/A,Fondo,2025-05-26T09:20:08+00:00,Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,3,8,38,0.3,7,6,Tráfico,2025-05-26T09:20:05+00:00,Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,14,N/A,N/A,15,8,Tráfico,2025-05-26T09:20:09+00:00,Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,11,N/A,N/A,24,10,Tráfico,2025-05-26T09:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,11,N/A,N/A,N/A,N/A,Fondo,2025-05-26T09:20:10+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,46,0.1,9,6,Tráfico,2025-05-26T09:20:04+00:00,Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,19,N/A,N/A,20,11,Tráfico,2025-05-26T09:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,28,N/A,N/A,20,11,Tráfico,2025-05-26T09:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+23,Francia,"Avda. de Francia, 60",Urbana,N/A,N/A,1,3,45,0.1,9,6,Tráfico,2025-05-26T10:20:05+00:00,Buena,N/A,N/A,N/A
+27,Universidad Politécnica,Campus de la U. Politécnica. Avda. Tarongers,Suburbana,N/A,N/A,2,3,43,N/A,18,13,Fondo,2025-05-26T10:20:08+00:00,Razonablemente Buena,N/A,N/A,N/A
+28,Viveros,Jardines de Viveros,Urbana,N/A,N/A,0,10,45,N/A,N/A,N/A,Fondo,2025-05-26T10:20:10+00:00,Buena,N/A,N/A,N/A
+829,Cabanyal,"Carrer del Progrés, 379",Urbana,N/A,N/A,N/A,8,N/A,N/A,N/A,N/A,Fondo,2025-05-26T10:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+432,Patraix,"Archiduque Carlos, 84ac",Urbana,N/A,N/A,N/A,21,N/A,N/A,20,11,Tráfico,2025-05-26T10:20:13+00:00,Razonablemente Buena,N/A,N/A,N/A
+24,Boulevar Sur,Avda. Tres Cruces s/n (Parking Cementerio de Valencia),Urbana,N/A,N/A,3,6,37,N/A,N/A,N/A,Tráfico,2025-05-26T10:20:06+00:00,Buena,N/A,N/A,N/A
+26,Pista de Silla,"C/ Filipinas, s/n",Urbana,N/A,N/A,0,7,45,0.7,7,3,Tráfico,2025-05-26T10:20:07+00:00,Buena,N/A,N/A,N/A
+22,Centro,Plaza Ayuntamiento,Urbana,N/A,N/A,N/A,11,N/A,N/A,15,8,Tráfico,2025-05-26T10:20:10+00:00,Buena,N/A,N/A,N/A
+430,Dr. Lluch,"Calle Dr. Lluch, 48",Urbana,N/A,N/A,N/A,6,N/A,N/A,24,10,Tráfico,2025-05-26T10:20:11+00:00,Razonablemente Buena,N/A,N/A,N/A
+431,Olivereta,Av. del Cid amb Av. de les Tres Creus,Urbana,N/A,N/A,N/A,15,N/A,N/A,20,11,Tráfico,2025-05-26T10:20:12+00:00,Razonablemente Buena,N/A,N/A,N/A
+25,Molí del Sol,Avda. Pío Baroja - Avda. General Avilés,Suburbana,N/A,N/A,3,5,36,0.3,7,6,Tráfico,2025-05-26T10:20:07+00:00,Buena,N/A,N/A,N/A
